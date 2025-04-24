@@ -1,5 +1,5 @@
 # Company Law
-中华人民共和国公司法
+[中华人民共和国公司法](https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm)
 
 ## File Structure
 公司法/     
